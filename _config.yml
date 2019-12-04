@@ -16,10 +16,10 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: edfeff
-organization: edfeff
+organization: 
 organization_url: 
 github_username: edfeff
-location: Suzhou, China
+location: 苏州, China
 email: edfeff@163.com
 
 # ---------------- #
@@ -40,7 +40,7 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: 速记表
 
   -
     href: /links/
